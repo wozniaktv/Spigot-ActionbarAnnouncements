@@ -1,0 +1,12 @@
+name: ActionbarAnnouncements
+version: ${project.version}
+main: wozniaktv.announcements.Announcements
+api-version: 1.19
+prefix: ActionbarAnnouncements
+authors: [ WoZniaK_TV ]
+description: Announcements, but in sidebar.
+website: https://discord.gg/hjKugyvV8r
+commands:
+  acreload:
+    description: "Allows administrators to reload the configuration file"
+    usage: /acreload

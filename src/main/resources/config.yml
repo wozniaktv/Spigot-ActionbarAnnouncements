@@ -1,0 +1,14 @@
+# CONFIG.YML - ACTIONBAR ANNOUNCEMENTS PLUGIN
+
+#Delay between each automatic announcement
+
+delay_announcements: 120 # (each seconds)
+
+remainTimeAnnouncements: 3 # (seconds)
+
+#Remember, do not write too long announcements! Users won't read the and + they will be displayed on the ActionBar!
+
+announcements:
+  - "&bRemember to rate this plugin on SpigotMC"
+  - "&2Join my TG Channel: https://t.me/wozDevPlugins !"
+  - "&9You can add how much messages you want to!"
