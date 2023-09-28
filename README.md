@@ -1,5 +1,3 @@
 # ActionbarAnnouncements
 
-This plugin has been added to SpigotMC and it's *free to use*.
-
-This source code is **private**; and cannot be modified and/or showed to any unauthorized user.
+This plugin has been added to [SpigotMC](https://www.spigotmc.org/resources/actionbarannouncements-1-12-1-19.108367/) and it's **free to use**.
